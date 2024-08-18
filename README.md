@@ -85,7 +85,7 @@ If you're working on a translation you'd like released with the next update of D
 ](https://forums.thimbleweedpark.com/c/delores-engine) for more information and to connect with others doing translations.
 
 ## Wimpy
-The tool to add and position objects is called **Wimpy** and it can be download [here](https://thimbleweedpark.com/deloresdev)
+The tool to add and position objects is called **Wimpy** and it can be download [here](https://thimbleweedpark.com/delores_dev)
 
 When you first start **Wimpy**, you will see a blank window. To load a `.wimpy` file, drag it into the window. The `.wimpy` file must come from the `DeloresDev/Wimpy` folder and the project directory structure must remain as it is in the repo.
 
